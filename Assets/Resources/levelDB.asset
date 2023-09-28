@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce45f95838f738449aa6770069bc4314, type: 3}
+  m_Name: levelDB
+  m_EditorClassIdentifier: 
+  level:
+  - levelName: Punjabi
+    levelSprite: {fileID: 21300000, guid: a44e9c37d719f04498ed519aade6bdd1, type: 3}
+  - levelName: Hindi
+    levelSprite: {fileID: 21300000, guid: d697265aa3f43134aab4963cab722c05, type: 3}
+  - levelName: English
+    levelSprite: {fileID: 21300000, guid: 409bb72f1f626c24aa53011d0b832482, type: 3}
